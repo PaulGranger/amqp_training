@@ -1,8 +1,6 @@
-package fr.lernejo.chat;
+package lernejo.chat;
 
 import org.springframework.stereotype.Component;
-
-import java.util.ArrayList;
 
 @Component
 public class ChatMessageListener {
